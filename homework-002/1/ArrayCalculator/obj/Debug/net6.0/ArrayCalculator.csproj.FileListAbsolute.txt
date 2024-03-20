@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\bin\Debug\net6.0\ArrayCalculator.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\bin\Debug\net6.0\ArrayCalculator.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\bin\Debug\net6.0\ArrayCalculator.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\bin\Debug\net6.0\ArrayCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\bin\Debug\net6.0\ArrayCalculator.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\refint\ArrayCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ArrayCalculator.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\1\ArrayCalculator\obj\Debug\net6.0\ref\ArrayCalculator.dll

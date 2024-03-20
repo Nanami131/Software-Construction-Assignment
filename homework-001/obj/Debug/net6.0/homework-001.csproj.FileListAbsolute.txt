@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\bin\Debug\net6.0\homework-001.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\bin\Debug\net6.0\homework-001.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\bin\Debug\net6.0\homework-001.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\bin\Debug\net6.0\homework-001.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\bin\Debug\net6.0\homework-001.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\refint\homework-001.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\homework-001.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-001\obj\Debug\net6.0\ref\homework-001.dll

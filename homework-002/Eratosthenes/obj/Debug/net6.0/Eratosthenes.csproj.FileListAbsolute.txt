@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\bin\Debug\net6.0\Eratosthenes.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\bin\Debug\net6.0\Eratosthenes.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\bin\Debug\net6.0\Eratosthenes.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\bin\Debug\net6.0\Eratosthenes.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\bin\Debug\net6.0\Eratosthenes.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\refint\Eratosthenes.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\Eratosthenes.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\Eratosthenes\obj\Debug\net6.0\ref\Eratosthenes.dll

@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\bin\Debug\net6.0\PrintPrimeFactors.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\bin\Debug\net6.0\PrintPrimeFactors.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\bin\Debug\net6.0\PrintPrimeFactors.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\bin\Debug\net6.0\PrintPrimeFactors.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\bin\Debug\net6.0\PrintPrimeFactors.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\refint\PrintPrimeFactors.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\PrintPrimeFactors.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\PrintPrimeFactors\obj\Debug\net6.0\ref\PrintPrimeFactors.dll

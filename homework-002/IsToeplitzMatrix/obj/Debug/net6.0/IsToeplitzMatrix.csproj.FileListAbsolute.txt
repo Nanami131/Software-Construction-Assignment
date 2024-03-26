@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\bin\Debug\net6.0\IsToeplitzMatrix.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\bin\Debug\net6.0\IsToeplitzMatrix.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\bin\Debug\net6.0\IsToeplitzMatrix.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\bin\Debug\net6.0\IsToeplitzMatrix.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\bin\Debug\net6.0\IsToeplitzMatrix.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\refint\IsToeplitzMatrix.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\IsToeplitzMatrix.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-002\IsToeplitzMatrix\obj\Debug\net6.0\ref\IsToeplitzMatrix.dll

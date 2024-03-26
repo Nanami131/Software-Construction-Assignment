@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\bin\Debug\net6.0\GeoShapeCalculator.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\bin\Debug\net6.0\GeoShapeCalculator.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\bin\Debug\net6.0\GeoShapeCalculator.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\bin\Debug\net6.0\GeoShapeCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\bin\Debug\net6.0\GeoShapeCalculator.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\refint\GeoShapeCalculator.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\GeoShapeCalculator.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-003\GeoShapeCalculator\obj\Debug\net6.0\ref\GeoShapeCalculator.dll

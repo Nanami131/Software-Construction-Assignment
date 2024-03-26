@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\bin\Debug\net6.0\GenericLinkedList.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\bin\Debug\net6.0\GenericLinkedList.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\bin\Debug\net6.0\GenericLinkedList.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\bin\Debug\net6.0\GenericLinkedList.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\bin\Debug\net6.0\GenericLinkedList.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\refint\GenericLinkedList.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\GenericLinkedList.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\GenericLinkedList\obj\Debug\net6.0\ref\GenericLinkedList.dll

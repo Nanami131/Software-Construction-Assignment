@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\bin\Debug\net6.0\AlarmClock.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\bin\Debug\net6.0\AlarmClock.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\bin\Debug\net6.0\AlarmClock.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\bin\Debug\net6.0\AlarmClock.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\bin\Debug\net6.0\AlarmClock.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\refint\AlarmClock.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\AlarmClock.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-004\AlarmClock\obj\Debug\net6.0\ref\AlarmClock.dll

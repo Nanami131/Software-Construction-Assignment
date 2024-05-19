@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\bin\Debug\net7.0-windows\Crawler+.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\bin\Debug\net7.0-windows\Crawler+.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\bin\Debug\net7.0-windows\Crawler+.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\bin\Debug\net7.0-windows\Crawler+.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\bin\Debug\net7.0-windows\Crawler+.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler_.Form1.resources
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\refint\Crawler+.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\Crawler+.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-007\Crawler+\obj\Debug\net7.0-windows\ref\Crawler+.dll

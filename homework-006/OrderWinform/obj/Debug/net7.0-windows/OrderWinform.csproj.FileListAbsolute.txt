@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\bin\Debug\net7.0-windows\OrderWinform.exe
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\bin\Debug\net7.0-windows\OrderWinform.deps.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\bin\Debug\net7.0-windows\OrderWinform.runtimeconfig.json
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\bin\Debug\net7.0-windows\OrderWinform.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\bin\Debug\net7.0-windows\OrderWinform.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.Form1.resources
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\refint\OrderWinform.dll
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.pdb
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\OrderWinform.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Software-Construction-Assignment\homework-006\OrderWinform\obj\Debug\net7.0-windows\ref\OrderWinform.dll
